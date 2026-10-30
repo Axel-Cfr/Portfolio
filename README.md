@@ -18,7 +18,7 @@ J'ai aussi réalisé, avec deux camarades, un gestionnaire de mots de passe en J
 - [Formations (hors cursus scolaire)](#formations)
 - [Projets](#projets)
 - [WriteUps](#writeups)
-- [Conférences](#conférences-auxquelles-jai-assisté-) 
+- [Conférences](#conférences-auxquelles-jai-assisté) 
 
 ## Profils
 
