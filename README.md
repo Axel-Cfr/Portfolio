@@ -12,10 +12,18 @@ J’explore plusieurs facettes de la cybersécurité en autodidacte comme le SOC
 
 J'ai aussi réalisé, avec deux camarades, un gestionnaire de mots de passe en Java utilisant AES-256-GCM et Argon2d/id et fonctionnant dans le terminal. L'authentification se fait sans stockage du mot de passe maître ni de sa clé dérivée dans la BDD SQLite.
 
+## Sommaire
+
+- [Profils](#profils)
+- [Formations (hors cursus scolaire)](#formations)
+- [Projets](#projets)
+- [WriteUps](#writeups)
+- [Conférences](#conférences-auxquelles-jai-assisté-) 
+
 ## Profils
 
-[Linkedin](www.linkedin.com/in/axelchabot)  
-[TryHackMe](https://tryhackme.com/p/AxelCfr)
+[**LinkedIn**](www.linkedin.com/in/axelchabot)  
+[**TryHackMe**](https://tryhackme.com/p/AxelCfr)
 
 ## Formations
 
@@ -94,3 +102,14 @@ Gestionnaire de mots de passe multicompte en ligne de commande (CLI) local et op
 - Bruteforce de mot de passe (Hydra)
 - Utilisation de l'exploit tomcat_mgr_deploy (Metasploit)
 - Récupérations de flags
+
+## Conférences auxquelles j'ai assisté
+
+#### Cybermois 2025 - Limoges
+- Retour d’expérience d’une cyber-attaque
+- Sécurité des données de recherche en milieu universitaire
+
+#### Cybermois 2026 - Limoges
+- Hercule et les hackers : quand les mythes, contes, batailles ou films expliquent les biais en cyber
+
+#### European Cyber Week 2026 - Rennes (à venir)
