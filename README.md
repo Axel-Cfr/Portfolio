@@ -6,6 +6,7 @@ Je m'intêresse à tout ce qui touche à l'informatique et plus particulièremen
 Je recherche dans le domaine de la cybersécurité :
 - un stage de 6 semaines à 3 mois à partir du 18 mai 2027
 - une alternance à partir de septembre 2027 couvrant mes 3 années de cycle ingénieur
+
 Le stage peut bien sûr servir de "période d'essai" pour une alternance !
 
 J’explore plusieurs facettes de la cybersécurité en autodidacte comme le SOC, le pentest basique et le réseau via TryHackMe mais j’aimerais aussi m’initier à la sécurité de l’IA ainsi qu’à la conception et au maintien d’un SI sécurisé. J'ai complété le parcours Cyber Security 101 (56 salles) et je suis en train de suivre le parcours SOC Level 1.
@@ -112,4 +113,15 @@ Gestionnaire de mots de passe multicompte en ligne de commande (CLI) local et op
 #### Cybermois 2026 - Limoges
 - Hercule et les hackers : quand les mythes, contes, batailles ou films expliquent les biais en cyber
 
-#### European Cyber Week 2026 - Rennes (à venir)
+#### European Cyber Week 2026 - Rennes
+Mardi 17 novembre :
+- Soutenir par l'OSINT l'industrie de défense !
+- Lutte contre les opérations d'influence étrangères : forces et faiblesses des approches actuelles
+- Citoyens, entreprises, armées : défendre la Nation dans le cyberespace
+- Atelier Industriel Orange Cyberdefense : passer à l'action post-quantique
+- Séminaire des menaces cognitives II  
+
+Mercredi 18 novemebre :
+- Atelier Thales : SOC souverain du futur, perspectives sur la base d'un exemple du spatial
+- Atelier Airbus/Quarkslab : Analyse de la résilience face aux agents IA offensifs
+- Sécuriser la Supply Chain de défense : Achats, normes et perspectives futures
